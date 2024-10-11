@@ -48,7 +48,8 @@ Based on the information about the logic diagram, we started to practice a more 
 
 For more sophisticated equivalent circuits practice, we tried to utilize [this website](https://logic.ly/demo/) to construct circuits, and based on the status of the switch determine the binary value for inputting in the truth table. What is noticed then, is that all the output for the four circuits is the same, which is the output of the XOR gate. This shows that the output of a certain gate can be achieved through multiple gate combinations.
 
-<img width="550" alt="logic gates practice" src="https://github.com/user-attachments/assets/ed720e71-0c2e-464a-93a0-3054d93e6c3b"><img width="300" alt="logic ly" src="https://github.com/user-attachments/assets/826927a9-080a-49fa-8d26-bef4a17d25a9">
+<img width="550" alt="logic gates practice" src="https://github.com/user-attachments/assets/ed720e71-0c2e-464a-93a0-3054d93e6c3b">
+<img width="550" alt="logic ly" src="https://github.com/user-attachments/assets/826927a9-080a-49fa-8d26-bef4a17d25a9">
 
 
 
