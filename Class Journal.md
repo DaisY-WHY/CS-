@@ -36,16 +36,19 @@ In terms of the Binary Search Tree (BST), the first value in a list is always co
 
 ***Logic Statement and Truth Table Practice***
 
-The basic logic gates that we have learned by now are NOT gate, AND gate, OR gate, XOR gate, NAND gate, and NOR gate. To know how to use them in real-life scenarios, a few logic statements were given to us to transform the logic statement into a Boolean expression as well as a logic table that represents the scenario. In addition to simply practicing the 6 gates individually, we've also practiced on using combined gates, such as using NOT and OR gates, or NOT and XOR gates, etc.
+The basic logic gates that we have learned by now are NOT gate, AND gate, OR gate, XOR gate, NAND gate, and NOR gate. To know how to use them in real-life scenarios, a few logic statements were given to us to transform the logic statement into a Boolean expression as well as a logic table that represents the scenario. In addition to simply practicing the 6 gates individually, we've also practiced using combined gates, such as using NOT and OR gates, or NOT and XOR gates, etc.
 
 <img width="500" alt="Logical Statement and Truth Table conversion practice 2" src="https://github.com/user-attachments/assets/17c56bb3-a405-4797-88c3-c765bea7008d"><img width="500" alt="Logical Statement and Truth Table conversion practice 1" src="https://github.com/user-attachments/assets/64a32b47-a5c5-474d-8382-7926f7157ec4">
 
 ***Logic Diagram and Truth Table Practice***
 
+Based on the information about the logic diagram, we started to practice a more complex form of logic diagram, and the way of transforming the diagram into a truth table, eventually reaching the output. How to achieve this is the same as converting a logic statement into a truth table, while one thing to notice is the input source of an input must not be mistaken.
+
 <img width="550" alt="logic gates practice" src="https://github.com/user-attachments/assets/ed720e71-0c2e-464a-93a0-3054d93e6c3b">
 
-<img width="550" alt="Logic gates practice 2" src="https://github.com/user-attachments/assets/1b561c92-6b37-44f0-ba2f-153643a81e9a">
-<img width="550" alt="logic ly" src="https://github.com/user-attachments/assets/826927a9-080a-49fa-8d26-bef4a17d25a9">
+For more sophisticated equivalent circuits practice, we tried to utilize this website to construct circuits, and based on the status of the switch determine the binary value for inputting in the truth table. What is noticed then, is that all the output for the four circuits is all the same, which is the output of the XOR gate. This shows that the output of a certain gate can be achieved through multiple gate combinations.
+
+<img width="500" alt="Logic gates practice 2" src="https://github.com/user-attachments/assets/1b561c92-6b37-44f0-ba2f-153643a81e9a"><img width="500" alt="logic ly" src="https://github.com/user-attachments/assets/826927a9-080a-49fa-8d26-bef4a17d25a9">
 
 
 
