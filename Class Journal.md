@@ -4,7 +4,7 @@
 
 To establish good preparation before the course of Computer Science officially begins, we were introduced to 3 core values that could be indeed helpful with the course. They are perseverance, persistence, and discipline. To build more connections between the core values and show a full understanding of them, we've constructed a poster, proposing the main problem "How to be Successful in Computer Science", and suggesting three sections of solution that are respectively related to the 3 core values, the 5 shared values (respect, wisdom, compassion, justice, and honesty), and the four layers of computational thinking (decomposition, pattern recognition, abstraction, and algorithmic thinking). 
 
-<img width = "700" alt="Core Values   Traits" src="https://github.com/user-attachments/assets/12fad3aa-c379-4507-a3ed-29364fe34e30">
+<img width = "550" alt="Core Values   Traits" src="https://github.com/user-attachments/assets/12fad3aa-c379-4507-a3ed-29364fe34e30">
 
 ## Week 2
 ***Testing Understanding of Number System and Data Presentation***
@@ -25,10 +25,27 @@ In this class, we've learned about the concept of a binary tree, which is a data
 
 When learning about the notation of the binary tree operation - especially Infix notation - we were given three operation statements and were required to transform the requirement into a corresponding binary tree. The basic idea of Infix notation is to take the middle operator (calculation signs) and turn it into the root node. Then, the root node will develop the left subtree and the right subtree correspondingly with the given operation (the number in the operation is known as the operands).
 
-<img width = "700" alt="Binary Tree" src="https://github.com/user-attachments/assets/4f370635-79b2-40d1-833d-ac30436ceeca">
+<img width = "550" alt="Binary Tree" src="https://github.com/user-attachments/assets/4f370635-79b2-40d1-833d-ac30436ceeca">
 
 To comprehensively understand the binary tree operation, we have also practiced another form, which is the Post-fix calculation. Differing from the In-fix calculation where all the operators are located in between the operands, the Post-fix calculation's operators are all used to calculate the two operands before the operator (see image below). In any form of calculation, the left-hand side will always be placed in the front of an operation.
 
 In terms of the Binary Search Tree (BST), the first value in a list is always considered to be the root node. The second value in the list will then compare with the root node: if larger, goes to the right; if smaller, goes to the left. When the third value will then be compared with the first and the second value (if the third value is on the same side as the second value).
 
-<img width = "700" alt="Notation practice + PST" src="https://github.com/user-attachments/assets/d7fd48d6-0276-4848-91e4-4a35e037c770">
+<img width = "550" alt="Notation practice + PST" src="https://github.com/user-attachments/assets/d7fd48d6-0276-4848-91e4-4a35e037c770">
+
+
+***Logic Statement and Truth Table Practice***
+
+The basic logic gates that we have learned by now are NOT gate, AND gate, OR gate, XOR gate, NAND gate, and NOR gate. To know how to use them in real-life scenarios, a few logic statements were given to us to transform the logic statement into a Boolean expression as well as a logic table that represents the scenario. In addition to simply practicing the 6 gates individually, we've also practiced on using combined gates, such as using NOT and OR gates, or NOT and XOR gates, etc.
+
+<img width="500" alt="Logical Statement and Truth Table conversion practice 2" src="https://github.com/user-attachments/assets/17c56bb3-a405-4797-88c3-c765bea7008d"><img width="500" alt="Logical Statement and Truth Table conversion practice 1" src="https://github.com/user-attachments/assets/64a32b47-a5c5-474d-8382-7926f7157ec4">
+
+***Logic Diagram and Truth Table Practice***
+
+<img width="550" alt="logic gates practice" src="https://github.com/user-attachments/assets/ed720e71-0c2e-464a-93a0-3054d93e6c3b">
+
+<img width="550" alt="Logic gates practice 2" src="https://github.com/user-attachments/assets/1b561c92-6b37-44f0-ba2f-153643a81e9a">
+<img width="550" alt="logic ly" src="https://github.com/user-attachments/assets/826927a9-080a-49fa-8d26-bef4a17d25a9">
+
+
+
